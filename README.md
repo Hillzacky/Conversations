@@ -1,6 +1,6 @@
 <h1 align="center">Conversations</h1>
 
-<p align="center">Conversations: the very last word in instant messaging</p>
+<p align="center">Conversations: the very last word in instant messaging<br/>Source: https://codeberg.org/iNPUTmice/Conversations.git</p>
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=eu.siacs.conversations&amp;referrer=utm_source%3Dcodeberg">
